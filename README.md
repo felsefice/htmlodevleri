@@ -1,2 +1,2 @@
-# htmlodevleri
-HTML Derslerinin Ödevleri
+# HTML ÖDEVLERİ
+###### HTML Derslerinin Ödevleri Bu Repoda Paylaşılacak
